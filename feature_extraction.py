@@ -1,5 +1,6 @@
 import argparse
 import os
+import random
 import sys
 
 import h5py
